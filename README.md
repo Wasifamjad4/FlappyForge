@@ -1,7 +1,7 @@
 # FlappyForge
 A real-time Flappy Bird clone with physics-based movement and procedural obstacle generation, built in C++
 
-# FlappyForge — 2D Game Engine
+# FlappyForge : 2D Game Engine
 
 A fully functional **Flappy Bird clone** built in C++ using the LIFAMI graphics library. The player controls a bird navigating through randomly generated obstacles, with real-time physics and a dynamic scoring system.
 
